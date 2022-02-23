@@ -10,7 +10,7 @@ import pandas as pd
 import pickle
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
-import joblib
+#import joblib
 import pickle
 
 # load the model from disk
